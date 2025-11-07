@@ -130,7 +130,7 @@ You can add these in a folder `/screenshots`:
 ## ✅ Completed By
 
 **👤 Name:** Sheikh Shadman  
-**📧 Email (optional for README):**  
+**📧 Email:** sheikhshadman456@gmail.com
 **🗓 Submission Date:** November 2025
 
 ---
